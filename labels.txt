@@ -1,0 +1,12 @@
+Fresh Apple
+Rotten Apple
+Fresh Banana
+Rotten Banana
+Fresh Guava
+Rotten Guava
+Fresh Mango
+Rotten Mango
+Fresh Orange
+Rotten Orange
+Fresh Strawberry
+Rotten Strawberry
